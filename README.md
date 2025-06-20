@@ -1,7 +1,7 @@
 # SPECO - Smart Agriculture System
 
 <p align="center">
-  <img src="URL_TO_YOUR_PROJECT_IMAGE_OR_DEMO.png" alt="SPECO Device" width="450"/>
+  <img src="ide jadi.png" alt="SPECO Device" width="450"/>
 </p>
 
 <p align="center">
